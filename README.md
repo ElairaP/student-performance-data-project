@@ -46,7 +46,14 @@ This dataset is owned by Mr. Rabie El Kharoua
 ### Tutoring and Grade Class
 - To explore this relationship I had to create subsets of the dataframe to separate those who had received tutoring and those who had not.
 
+![Tutoring pie chart](https://github.com/ElairaP/student-performance-data-project/blob/main/screenshots/tutoring%20and%20GPA.png)
+
 ### Parental Education and Grade Class
 
+![Parental education bar code](https://github.com/ElairaP/student-performance-data-project/blob/main/screenshots/parental%20education%20bar%20code.png)  
+
+![Parental education bar chart](https://github.com/ElairaP/student-performance-data-project/blob/main/screenshots/parental%20education%20bar%20plot.png)
+
+![Prental Educationa pie charts](https://github.com/ElairaP/student-performance-data-project/blob/main/screenshots/parental%20education%20pie%20charts.png)
 
 

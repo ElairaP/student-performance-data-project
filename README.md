@@ -23,7 +23,12 @@ This dataset is owned by Mr. Rabie El Kharoua
 - I also made pie charts for age and gender; the age charts show that the proportion of students in each age groups were very similar and the gender pie chart shows that the number of males and females were also very similar.
 
 ### Hours Spent Studying Per Week and GPA
-- To analyse the relationship between hours spent studying per week and GPA, I plotted a scatter graph. The graph showed no correlation between hours studied weekly and GPA.
+- To analyse the relationship between hours spent studying per week and GPA, I plotted a scatter graph.
+
+![hours studying scatter graph](https://github.com/ElairaP/student-performance-data-project/blob/main/screenshots/hours%20spent%20studying%20and%20GPA.png)  
+
+- The graph showed no clear correlation between hours studied weekly and GPA.
+- Although the graph does show that among those who studied more than 10 hours, none have a GPA of 0.
 
 ### Number of Absences in the School Year and GPA
 - I also made a scatter graph to explore the relationships between number of absences and GPA.

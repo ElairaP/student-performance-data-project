@@ -16,3 +16,18 @@ This dataset is owned by Mr. Rabie El Kharoua
 
 ## Analysing and Visualising the Data
 - I first analysed the demographic of the dataset
+
+![ethnicity pie chart](https://github.com/ElairaP/student-performance-data-project/blob/main/screenshots/ethnicity%20pie%20chart.png)
+
+- I also made pie charts for age and gender; the age charts show that the proportion of students in each age groups were very similar and the gender pie chart shows that the number of males and females were also very similar.
+
+- To analyse the relationship between hours spent studying per week and GPA, I plotted a scatter graph. The graph showed no correlation between hours studied weekly and GPA.
+- I also made a scatter graph to explore the relationships between number of absences and GPA.
+
+- The scatter graphs shows that as the number of absences increases, the GPA of the student tends to decrease.
+
+- I then explored the relationship between parental support and Grade Class
+- To do this I first had to make subsets of the dataframe
+
+
+

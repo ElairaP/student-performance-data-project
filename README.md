@@ -12,4 +12,7 @@ This dataset is owned by Mr. Rabie El Kharoua
 - For some columns, the data in the dataset were encoded as numbers and the key which describes what the numbers in each column means was put on kaggle.
 - To make the dataset easier to understand I mapped the encoded data to their actual value.
 
+![Mapping screenshot](https://github.com/ElairaP/student-performance-data-project/blob/main/screenshots/mapping%20values%20screenshot.png)
+
 ## Analysing and Visualising the Data
+- I first analysed the demographic of the dataset

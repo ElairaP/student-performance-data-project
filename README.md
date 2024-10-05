@@ -15,19 +15,38 @@ This dataset is owned by Mr. Rabie El Kharoua
 ![Mapping screenshot](https://github.com/ElairaP/student-performance-data-project/blob/main/screenshots/mapping%20values%20screenshot.png)
 
 ## Analysing and Visualising the Data
+### Demographic
 - I first analysed the demographic of the dataset
 
 ![ethnicity pie chart](https://github.com/ElairaP/student-performance-data-project/blob/main/screenshots/ethnicity%20pie%20chart.png)
 
 - I also made pie charts for age and gender; the age charts show that the proportion of students in each age groups were very similar and the gender pie chart shows that the number of males and females were also very similar.
 
+### Hours Spent Studying Per Week and GPA
 - To analyse the relationship between hours spent studying per week and GPA, I plotted a scatter graph. The graph showed no correlation between hours studied weekly and GPA.
+
+### Number of Absences in the School Year and GPA
 - I also made a scatter graph to explore the relationships between number of absences and GPA.
+
+![absences scatter graph](https://github.com/ElairaP/student-performance-data-project/blob/main/screenshots/absences%20and%20GPA.png)
 
 - The scatter graphs shows that as the number of absences increases, the GPA of the student tends to decrease.
 
+### Parental Support and Grade Class
 - I then explored the relationship between parental support and Grade Class
 - To do this I first had to make subsets of the dataframe
+
+![parental supports subsets](https://github.com/ElairaP/student-performance-data-project/blob/main/screenshots/parental%20support%20subsets.png)
+
+![parental supports pie charts](https://github.com/ElairaP/student-performance-data-project/blob/main/screenshots/parental%20support%20and%20GPA%20pie%20charts.png)  
+
+- The pis charts show that students who had no parent support from their parents had the largest proportion of F class grades
+- Whereas students that received a high amount of parental support had the smallest proprtion of F class grades and the largest proportion of A class grades.
+
+### Tutoring and Grade Class
+- To explore this relationship I had to create subsets of the dataframe to separate those who had received tutoring and those who had not.
+
+### Parental Education and Grade Class
 
 
 
